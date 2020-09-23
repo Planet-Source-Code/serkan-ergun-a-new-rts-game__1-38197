@@ -1,0 +1,10 @@
+Form1 = 44, 44, 710, 367, Z, 0, 0, 0, 0, C
+AStar = 0, 0, 0, 0, C
+AStarNode = 0, 0, 0, 0, C
+Character = 0, 0, 0, 0, C
+CoOrdinate = 0, 0, 0, 0, C
+Heap = 0, 0, 0, 0, C
+HeapNode = 0, 0, 0, 0, C
+Map = 22, 22, 688, 345, 
+Dx7 = 66, 66, 732, 389, 
+BmpPacker = 0, 0, 0, 0, C
